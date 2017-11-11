@@ -1,0 +1,28 @@
+h1	{font-weight:480px;
+	text-align:center;
+	font-style:oblique;
+	color:rgb(0,175,255);
+	background-color: #990099;
+	}	 
+img { position:relative;
+	  margin-left: 200px;	
+}
+.header {font-weight: 450px;
+		font-style: bold;
+		color: #990099;
+}
+
+h2	{font-size: 20px; 
+		color:rgb(150,0,255);
+		text-decoration-color: #990099;bl
+}
+
+li     {font-style: bold;
+		font-size: 20px;
+	    color: #990099;
+}
+blockquote {font-style: oblique;
+			font-color:25,175,255;
+}
+
+	
